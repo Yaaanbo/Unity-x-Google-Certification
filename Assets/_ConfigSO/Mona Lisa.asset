@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b11084ec8837777449f5a0443b6a902b, type: 3}
+  m_Name: Mona Lisa
+  m_EditorClassIdentifier: 
+  id: monalisa
+  title: Mona Lisa
+  author: Leonardo da Vinci
+  description: The Mona Lisa is a half-length portrait painting by Italian artist
+    Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance,
+    it has been described as "the best known, the most visited, the most written
+    about, the most sung about, [and] the most parodied work of art in the world".
+    The painting's novel qualities include the subject's enigmatic expression, monumentality
+    of the composition, the subtle modelling of forms, and the atmospheric illusionism.
+  location: Louvre, Paris
+  starRating: 3
+  image: {fileID: 21300000, guid: fb7060af7318a9c40b4041d65e1eb060, type: 3}
+  thumbnailSize: {x: 420, y: 500}
+  thumbnailPosition: {x: 0, y: 20, z: 0}
+  headerImageSize: {x: 2000, y: 1700}
+  headerImagePosition: {x: 0, y: 80, z: 0}

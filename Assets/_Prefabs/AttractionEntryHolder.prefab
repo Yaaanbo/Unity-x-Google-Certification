@@ -223,7 +223,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -369,6 +369,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28d048ecb2ce23042856765d2ee42c4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  attractionThumbnailImg: {fileID: 6082718522942745133}
+  attractionTitleText: {fileID: 1639566543843542330}
+  attractionLocationText: {fileID: 4633170495476211650}
+  starsImg:
+  - {fileID: 2163561272923657936}
+  - {fileID: 4783912262452499492}
+  - {fileID: 3298812163336639666}
+  - {fileID: 3371695520577129061}
+  - {fileID: 6440352795072462549}
+  activeStarColor: {r: 0.9622642, g: 0.58856404, b: 0, a: 1}
+  inactiveStarColor: {r: 0, g: 0, b: 0, a: 1}
+  screenParametersPrefab: {fileID: 3310017612524872774, guid: 8588ff70b7ebd0d4ba735a477304c226, type: 3}
 --- !u!1 &2859881972856908190
 GameObject:
   m_ObjectHideFlags: 0
@@ -666,7 +678,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.78, g: 0.78, b: 0.78, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -741,7 +753,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0.7490196, b: 0, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -816,7 +828,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0.7490196, b: 0, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -891,7 +903,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0.75, b: 0, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
